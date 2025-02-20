@@ -3,10 +3,4 @@
 - 🌱 I’m currently learning Python, Sql, Machine Learning Fundamentals and Visualizing tool such as Power BI. 
 - 💞️ I’m looking to collaborate on Projects related to Data Science or Analytics 
 - 📫 How to reach me on my Email: akshatdec12@gmail.com
-- 📄 Know about my experiences/Resume [HERE]([https://drive.google.com/drive/u/0/my-drive])
-
-
-<!---
-AkshatS0/AkshatS0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📄 Know about my experiences/Resume [[HERE]](https://drive.google.com/drive/u/0/home)
