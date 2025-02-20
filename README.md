@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning Python, Sql, Machine Learning Fundamentals and Visualizing tool such as Power BI. 
 - 💞️ I’m looking to collaborate on Projects related to Data Science or Analytics 
 - 📫 How to reach me on my Email: akshatdec12@gmail.com
-- 📄 Know about my experiences/Resume [HERE](https://drive.google.com/drive/u/0/home)
+- 📄 Know about my experiences/Resume [[HERE]](https://drive.google.com/file/d/1dU-ZXJHTQ2OE5rCLVfl07AQGTamqlp47/view?usp=sharing)
